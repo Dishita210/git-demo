@@ -6,6 +6,7 @@ public class DemoClass {
 		// TODO Auto-generated method stub
 		System.out.println("main Branch");
 		System.out.println("Demo Branch2");
+		System.out.println("Demo Branch2 git url changes");
 	}
 
 }
