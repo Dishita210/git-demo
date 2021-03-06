@@ -7,6 +7,7 @@ public class DemoClass {
 		System.out.println("main Branch");
 		System.out.println("Demo Branch 1");
 		System.out.println("Demo Branch2");
+		System.out.println("Main Changes");
 	}
 
 }
